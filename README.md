@@ -1,4 +1,7 @@
 # DebugAI
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Made with](https://img.shields.io/badge/made%20with-JavaScript-blue.svg)]()
 
 DebugAI is an AI-powered debugging assistant that helps developers quickly identify, understand, and fix errors in their code. It uses Groq’s LLM API (Llama 3) to analyze stack traces, runtime errors, and buggy code, and returns clear root cause explanations along with actionable fixes.
 
@@ -29,7 +32,7 @@ DebugAI is an AI-powered debugging assistant that helps developers quickly ident
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/DebugAI.git
+git clone https://github.com/code-devkmd/DebugAI.git
 cd DebugAI
 ```
 
